@@ -1,0 +1,1 @@
+1. Application scan-git-app has been successfully deployed!!
